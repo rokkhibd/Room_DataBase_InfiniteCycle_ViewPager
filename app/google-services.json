@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112409282835",
+    "firebase_url": "https://roomdatabaseinfinitecycleviewp.firebaseio.com",
+    "project_id": "roomdatabaseinfinitecycleviewp",
+    "storage_bucket": "roomdatabaseinfinitecycleviewp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112409282835:android:279d073c5369f3c7",
+        "android_client_info": {
+          "package_name": "com.rokkhi.room_database_infinitecycle_viewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112409282835-67pe8bqjue8b1i96k7foitof66h6c245.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rokkhi.room_database_infinitecycle_viewpager",
+            "certificate_hash": "4106edaa89d6c9c33af285d458bb7a10fb290fa9"
+          }
+        },
+        {
+          "client_id": "112409282835-uontpdqu316fom99kan3qbgqp07v2ajm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9wkEnL8dix6favNkf8G0ntT5ZW4cm-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112409282835-uontpdqu316fom99kan3qbgqp07v2ajm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
